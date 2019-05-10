@@ -10,6 +10,7 @@ namespace Projeto01
     {
         static void Main(string[] args)
         {
+            double teste = double.Parse(Console.ReadLine());
             Console.WriteLine("Olá Mundo!");
 
             Console.WriteLine("Tenha um bom dia!");
@@ -17,6 +18,8 @@ namespace Projeto01
             Console.WriteLine("teste");
 
             Console.WriteLine("Boa noite");
+
+            Console.WriteLine(teste);
         }
     }
 }
