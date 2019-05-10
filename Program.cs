@@ -12,7 +12,11 @@ namespace Projeto01
         {
             Console.WriteLine("Olá Mundo!");
 
-            Console.WriteLine("teste GIT");
+            Console.WriteLine("Tenha um bom dia!");
+
+            Console.WriteLine("teste");
+
+            Console.WriteLine("Boa noite");
         }
     }
 }
