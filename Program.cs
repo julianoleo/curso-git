@@ -11,6 +11,8 @@ namespace Projeto01
         static void Main(string[] args)
         {
             Console.WriteLine("Olá Mundo!");
+
+            Console.WriteLine("teste GIT");
         }
     }
 }
